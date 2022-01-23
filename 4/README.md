@@ -31,6 +31,9 @@
  
  [ModbusSlave Install 64bit](https://www.modbustools.com/download/ModbusSlaveSetup64Bit.exe "ModbusSlave Install 64bit")
  [ModbusSlave Install 32bit](https://www.modbustools.com/download/ModbusSlaveSetup32Bit.exe "ModbusSlave Install 32bit")
+ 
+ **ВНИМАНИЕ!** Устанавливаются демо-версии программ; их функционал будет ограничен спустя 30 дней после установки.
+ Производите установку программ **только** непосредственно перед началом выполнения задания.
 
 3. Скачан графический файл Profibus_Profinet.png, имеется программа для просмотра данного файла с возможностью увеличения отдельных фрагментов изображения.
 
