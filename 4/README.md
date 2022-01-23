@@ -31,6 +31,7 @@
 Ссылки на скачивание:
 
  [ModbusPoll Install 64bit](https://www.modbustools.com/download/ModbusPollSetup64Bit.exe "ModbusPoll Install 64bit")
+ 
  [ModbusPoll Install 32bit](https://www.modbustools.com/download/ModbusPollSetup32Bit.exe "ModbusPoll Install 32bit")
 
 3. Скачан графический файл Profibus_Profinet.png, имеется программа для просмотра данного файла с возможностью увеличения отдельных фрагментов изображения.
