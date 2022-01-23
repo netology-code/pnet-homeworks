@@ -27,10 +27,14 @@
 Ссылки на скачивание:
 
  [ModbusPoll Install 64bit](https://www.modbustools.com/download/ModbusPollSetup64Bit.exe "ModbusPoll Install 64bit")
- 
  [ModbusPoll Install 32bit](https://www.modbustools.com/download/ModbusPollSetup32Bit.exe "ModbusPoll Install 32bit")
+ 
+ [ModbusSlave Install 64bit](https://www.modbustools.com/download/ModbusSlaveSetup64Bit.exe "ModbusSlave Install 64bit")
+ [ModbusSlave Install 32bit](https://www.modbustools.com/download/ModbusSlaveSetup32Bit.exe "ModbusSlave Install 32bit")
 
 3. Скачан графический файл Profibus_Profinet.png, имеется программа для просмотра данного файла с возможностью увеличения отдельных фрагментов изображения.
+
+Ссылка на скачивание: [Profibus_Profinet.png](https://drive.google.com/file/d/1pArECMEBFeFQfWtAh7QR4wVM4zCl-pvH/view?usp=sharing "Profibus_Profinet")
 
 `Если для выполнения домашнего задания студенту требуется предварительная подготовка необходимых материалов, настройки ПО и т. п., рекомендуется вынести эти этапы в отдельный чеклист. Распиши по пунктам основные предварительные задачи для студента, дай ссылки на необходимые материалы в случае необходимости.`
 
