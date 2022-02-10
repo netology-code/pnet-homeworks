@@ -30,6 +30,9 @@
 ### Инструменты/ дополнительные материалы, которые пригодятся для выполнения задания
 
 1. Cisco Packet Tracer
+2. [CISCO: настройка STP \ RSTP протоколов](http://snakeproject.ru/rubric/article.php?art=cisco_stp_rstp)
+3. [Описание и настройка протоколов RSTP, Rapid PVST](https://easy-network.ru/38-urok-21.html)
+4. [Spanning Tree Protocol (STP)](https://ciscolearning.ru/cisco-switch/stp/)
 
 ------
 
