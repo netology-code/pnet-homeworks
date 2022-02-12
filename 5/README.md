@@ -18,20 +18,16 @@
 
 Ссылки на скачивание:
 
- [Modbus Slave Install 64bit](https://www.modbustools.com/download/ModbusSlaveSetup64Bit.exe "ModbusSlave Install 64bit") [Modbus Slave Install 32bit](https://www.modbustools.com/download/ModbusSlaveSetup32Bit.exe "ModbusSlave Install 32bit")
+[Modbus Slave Install 64bit](https://www.modbustools.com/download/ModbusSlaveSetup64Bit.exe "ModbusSlave Install 64bit") [Modbus Slave Install 32bit](https://www.modbustools.com/download/ModbusSlaveSetup32Bit.exe "ModbusSlave Install 32bit")
  
- [MasterOPC Universal Modbus Server](https://drive.google.com/file/d/1gKj-W5g06wFmacTKTg7TA-25U2k4xI9t/view?usp=sharing "MasterOPC Universal Modbus Server (Zip)")
+[MasterOPC Universal Modbus Server](https://drive.google.com/file/d/1gKj-W5g06wFmacTKTg7TA-25U2k4xI9t/view?usp=sharing "MasterOPC Universal Modbus Server (Zip)")
  
- [Matrikon OPC Explorer](https://drive.google.com/file/d/1G50COfrtY2KkFmSVi16BuPSSWetK0sje/view?usp=sharing "Matrikon OPC Explorer")
+[Matrikon OPC Explorer](https://drive.google.com/file/d/1G50COfrtY2KkFmSVi16BuPSSWetK0sje/view?usp=sharing "Matrikon OPC Explorer")
  
- [Matrikon OPC HDA Explorer](https://drive.google.com/file/d/1JyQjTRuLhzjpsNQ7sxk_vD_42GMxfV6P/view?usp=sharing "Matrikon OPC HDA Explorer")
+[Matrikon OPC HDA Explorer](https://drive.google.com/file/d/1JyQjTRuLhzjpsNQ7sxk_vD_42GMxfV6P/view?usp=sharing "Matrikon OPC HDA Explorer")
  
- **ВНИМАНИЕ!** Устанавливаются демо-версии программ; их функционал будет ограничен спустя 30 дней после установки.
- Производите установку программ **только** непосредственно перед началом выполнения задания.
-
-2. Скачан графический файл Profibus_Profinet.png, имеется программа для просмотра данного файла с возможностью увеличения отдельных фрагментов изображения.
-
-Ссылка на скачивание: [Profibus_Profinet.png](https://drive.google.com/file/d/1pArECMEBFeFQfWtAh7QR4wVM4zCl-pvH/view?usp=sharing "Profibus_Profinet")
+**ВНИМАНИЕ!** Для программы Modbus Slave устанавливается демо-версия; ее функционал будет ограничен спустя 30 дней после установки.
+Производите установку программы **только** непосредственно перед началом выполнения задания.
 
 ------
 
@@ -50,14 +46,14 @@
 
 ### Задание 1
 
-Производитель комплексного прибора, измеряющего параметры окружающей среды (температуру воздуха, атмосферное давление, относительную влажность, скорость ветра), предоставил данные для связи с этим устройством по Modbus RTU:
+Производитель комплексного прибора, измеряющего параметры окружающей среды (температуру воздуха, атмосферное давление, относительную влажность, скорость ветра), предоставил данные для связи с этим устройством по Modbus TCP:
 
 Температура - 30005
 Давление - 30006
 Влажность - 30008
 Скорость ветра - 30009
 
-Инженеру АСУТП в программе MasterOPC Universal Modbus Server необходимо создать новый рабочий проект с конфигурацией, позволяющей установить связь с двумя экземплярами виртуальной модели этого прибора, имеющими следующие параметры:
+Инженеру АСУТП в программе MasterOPC Universal Modbus Server необходимо создать новый рабочий проект с конфигурацией, позволяющей установить связь с двумя экземплярами виртуальной модели этого прибора, имеющими указанные ниже параметры, и получить данные о температуре, давлении и проч. с каждого из приборов:
 
 Экземпляр 1:
 
@@ -82,26 +78,30 @@ Port = 505
 
 Экземпляр 2: 
 
-Температура = 22 (градусов)
+Температура = 22 (градуса)
 Давление = 101 (кПа)
 Влажность = 80 (%)
 Скорость ветра = 4 (м/с)
 
-Убедиться в работоспособности схемы "Сервер OPC - два экземпляра виртуальных приборов", произведя их соединение (для сервера - выбором команды "Старт", для каждого их экземпляров Modbus Slave - переводом в статус "Connected") и убедившись в идентичности отправляемых и получаемых данных.
+Убедиться в работоспособности схемы "Сервер OPC - два экземпляра виртуальных приборов", произведя их соединение (для сервера - выбором команды "Старт", для каждого из экземпляров Modbus Slave - переводом в статус "Connected") и убедившись в идентичности отправляемых и получаемых данных.
 
 Ответ привести в виде файлов конфигурации, созданных в программах MasterOPC Universal Modbus Server и Modbus Slave (каждого из экземпляров).
 Файлы конфигурации необходимо сохранить в Google Drive, сделав их доступными для загрузки.
 В документе, созданном для выполнения ДЗ, привести ссылки на данные файлы.
-В названиях файлов конфигурации указать фамилию, имя студента и лекцию, к которой относится ДЗ, следующим образом: StudentName_LectureN.*
-(например, IvanovPetr_Lecture2_4.mbs)
+В названиях файлов конфигурации указать фамилию, имя студента и лекцию, к которой относится ДЗ, следующим образом: StudentName_LectureN_xxx.*
+(например, IvanovPetr_Lecture2_5_001.mbs).
 
 ------
 
 ### Задание 2
 
-При помощи программы 
+Внести изменения в рабочий проект MasterOPC Universal Modbus Server из задания 1, сделав теги температуры каждого из приборов архивируемыми.
 
-Ответ привести в виде списка найденных ошибок для корректировки схемы.
+При помощи программы Matrikon OPC Explorer произвести подключение к доступному серверу OPC DA, выведя значения всех тегов.
+
+Спустя 5 минут при помощи программы Matrikon OPC HDA Explorer произвести подключение к доступному серверу OPC HDA, выведя значения тегов температуры с обоих приборов за последние 5 минут.
+
+Ответ привести в виде скриншотов программ Matrikon OPC Explorer, Matrikon OPC HDA Explorer.
 
 ------
 
@@ -117,8 +117,8 @@ Port = 505
 
 ### Критерии оценки
 
-1. Задание 1 считается выполненным, если при загрузке конфигураций в программы Modbus Poll, Modbus Slave и включении режима "Connect" происходит корректный обмен запросами от Master и ответами от Slave, а на основных экранах выдаются указанные в условии значения параметров.
-2. Задание 2 считается выполненным, если найдено 10 и более ошибок в схеме.
+1. Задание 1 считается выполненным, если при загрузке конфигураций в программы MasterOPC Universal Modbus Server, Modbus Slave (оба экземпляра) и включении режимов "Старт" и "Connect" соответственно происходит корректное чтение данных сервером OPC из устройств Modbus Slave , а на основных экранах этих программ выдаются указанные в условии значения параметров.
+2. Задание 2 считается выполненным, если после настройки программ-клиентов OPC на них отображаются те же данные, что и на сервере OPC.
 
 Примечание: С примером заполненного шаблона домашнего задания и подробной инструкцией можно ознакомиться по [ссылке](https://docs.google.com/document/d/13m07fqimLwzddcF6zyRrPjMO16RGynagzdO64-PMXuA/edit?usp=sharing).
 
