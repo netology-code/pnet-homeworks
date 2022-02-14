@@ -12,7 +12,7 @@
 
 ### Инструкция к заданию
 
-1. Необходимо скачать и установить программу [Cisco Packet Tracer](https://www.netacad.com/ru/courses/packet-tracer).
+1. Скачайте и установите программу [Cisco Packet Tracer](https://www.netacad.com/ru/courses/packet-tracer).
 1. Выполните домашнее задание.
 1. Сохраните pkt-файл.
 1. Для проверки домашнего задания преподавателем отправьте pkt-файл в личном кабинете.
