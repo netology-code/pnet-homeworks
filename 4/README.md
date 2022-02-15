@@ -19,13 +19,10 @@
 
 Ссылки на скачивание:
 
- [Modbus Poll Install 64bit](https://www.modbustools.com/download/ModbusPollSetup64Bit.exe "ModbusPoll Install 64bit")
- 
- [Modbus Poll Install 32bit](https://www.modbustools.com/download/ModbusPollSetup32Bit.exe "ModbusPoll Install 32bit")
- 
- [Modbus Slave Install 64bit](https://www.modbustools.com/download/ModbusSlaveSetup64Bit.exe "ModbusSlave Install 64bit")
- 
- [Modbus Slave Install 32bit](https://www.modbustools.com/download/ModbusSlaveSetup32Bit.exe "ModbusSlave Install 32bit")
+- [Modbus Poll Install 64bit](https://www.modbustools.com/download/ModbusPollSetup64Bit.exe "ModbusPoll Install 64bit")
+- [Modbus Poll Install 32bit](https://www.modbustools.com/download/ModbusPollSetup32Bit.exe "ModbusPoll Install 32bit")
+- [Modbus Slave Install 64bit](https://www.modbustools.com/download/ModbusSlaveSetup64Bit.exe "ModbusSlave Install 64bit")
+- [Modbus Slave Install 32bit](https://www.modbustools.com/download/ModbusSlaveSetup32Bit.exe "ModbusSlave Install 32bit")
  
  **ВНИМАНИЕ!** Устанавливаются демо-версии программ. Их функционал будет ограничен спустя 30 дней после установки.
  Производите установку программ **только** непосредственно перед началом выполнения задания.
@@ -53,25 +50,19 @@
 
 Производитель комплексного прибора, измеряющего параметры окружающей среды (температуру воздуха, атмосферное давление, относительную влажность, скорость ветра), предоставил данные для связи с этим устройством по Modbus RTU:
 
-Температура - 30005
-
-Давление - 30006
-
-Влажность - 30008
-
-Скорость ветра - 30009
+- Температура - 30005
+- Давление - 30006
+- Влажность - 30008
+- Скорость ветра - 30009
 
 Инженеру АСУ ТП в программе Modbus Poll необходимо создать конфигурацию, позволяющую установить связь с виртуальной моделью этого прибора.
 
 Для проверки работоспособности этой конфигурации в программе Modbus Slave необходимо создать виртуальное устройство с указанными выше параметрами, присвоив им следующие значения (единицы измерения не вносятся в конфигурацию, они даны для пояснения):
 
-Температура = 20 (градусов)
-
-Давление = 100 (кПа)
-
-Влажность = 70 (%)
-
-Скорость ветра = 1 (м/с)
+- Температура = 20 (градусов)
+- Давление = 100 (кПа)
+- Влажность = 70 (%)
+- Скорость ветра = 1 (м/с)
 
 Ответ привести в виде файлов конфигурации, созданных в программах Modbus Poll и Modbus Slave. Файлы конфигурации необходимо сохранить в Google Drive, сделав их доступными для загрузки. В документе, созданном для выполнения ДЗ, привести ссылки на данные файлы. В названиях файлов конфигурации указать фамилию, имя студента и лекцию, к которой относится ДЗ, следующим образом: StudentName_LectureN_xxx.* (например, IvanovPetr_Lecture2_4_001.mbp).
 
