@@ -106,8 +106,8 @@
 
 ### Задание 3 (необязательное)
 
-В программе MasterOPC Universal Modbus Server в работчий проект внесите изменения, позволяющие включить в работу сервер OPC UA.
-Скачайте и установите программу UaExpert ([UaExpert](https://drive.google.com/file/d/1CZj7ETnsDMord99d8uf_zDaggcIUpwsd/view?usp=sharing "UaExpert")).
+В программе MasterOPC Universal Modbus Server в рабочий проект внесите изменения, позволяющие включить в работу сервер OPC UA.
+Скачайте и установите программу UaExpert ([ссылка на скачивание](https://drive.google.com/file/d/1CZj7ETnsDMord99d8uf_zDaggcIUpwsd/view?usp=sharing "UaExpert")).
 Подключитесть с ее помощью к серверу OPC UA.
 
 Ответ приведите в виде скриншота программы UaExpert.
