@@ -17,13 +17,15 @@
 
 Ссылки на скачивание:
 
-- [Modbus Slave Install 64bit](https://www.modbustools.com/download/ModbusSlaveSetup64Bit.exe "ModbusSlave Install 64bit") [Modbus Slave Install 32bit](https://www.modbustools.com/download/ModbusSlaveSetup32Bit.exe "ModbusSlave Install 32bit")
+- [Modbus Slave Install 64bit](https://www.modbustools.com/download/ModbusSlaveSetup64Bit.exe "ModbusSlave Install 64bit") ([Modbus Slave Install 32bit](https://www.modbustools.com/download/ModbusSlaveSetup32Bit.exe "ModbusSlave Install 32bit"))
 - [MasterOPC Universal Modbus Server](https://drive.google.com/file/d/1gKj-W5g06wFmacTKTg7TA-25U2k4xI9t/view?usp=sharing "MasterOPC Universal Modbus Server (Zip)")
 - [Matrikon OPC Explorer](https://drive.google.com/file/d/1G50COfrtY2KkFmSVi16BuPSSWetK0sje/view?usp=sharing "Matrikon OPC Explorer")
 - [Matrikon OPC HDA Explorer](https://drive.google.com/file/d/1JyQjTRuLhzjpsNQ7sxk_vD_42GMxfV6P/view?usp=sharing "Matrikon OPC HDA Explorer")
  
 **ВНИМАНИЕ!** Для программы Modbus Slave устанавливается демо-версия. Ее функционал будет ограничен спустя 30 дней после установки.
 Производите установку программы **только** непосредственно перед началом выполнения задания.
+
+**ВНИМАНИЕ!** Для скачивания инсталляционных пакетов программ Matrikon OPC Explorer, Matrikon OPC HDA Explorer необходимо пройти процедуру регистрации на сайте [MatrikonOPC](https://matrikonopc.com/)
 
 ------
 
@@ -108,7 +110,7 @@
 
 В программе MasterOPC Universal Modbus Server в рабочий проект внесите изменения, позволяющие включить в работу сервер OPC UA.
 Скачайте и установите программу UaExpert ([ссылка на скачивание](https://drive.google.com/file/d/1CZj7ETnsDMord99d8uf_zDaggcIUpwsd/view?usp=sharing "UaExpert")).
-Подключитесть с ее помощью к серверу OPC UA.
+Подключитесь с ее помощью к серверу OPC UA.
 
 Ответ приведите в виде скриншота программы UaExpert.
 
