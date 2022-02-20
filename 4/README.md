@@ -29,7 +29,7 @@
 
 2. Скачан графический файл Profibus_Profinet.png, имеется программа для просмотра данного файла с возможностью увеличения отдельных фрагментов изображения.
 
-Ссылка на скачивание: [Profibus_Profinet.png](https://drive.google.com/file/d/1pArECMEBFeFQfWtAh7QR4wVM4zCl-pvH/view?usp=sharing "Profibus_Profinet")
+Ссылка на скачивание: [Profibus_Profinet.png](https://drive.google.com/file/d/1Gtwuw8rEgn4vgHE1r3Kd3ztujE-Nw1PD/view?usp=sharing)
 
 ------
 
@@ -72,7 +72,7 @@
 
 ### Задание 2
 
-Инженер АСУ ТП получил от разработчика эскиз схемы ([Profibus_Profinet.png](https://drive.google.com/file/d/1pArECMEBFeFQfWtAh7QR4wVM4zCl-pvH/view?usp=sharing "Profibus_Profinet")) автоматизированной системы управления с использованием устройств, подключаемых по протоколам Profibus и Profinet.
+Инженер АСУ ТП получил от разработчика эскиз схемы ([Profibus_Profinet.png](https://drive.google.com/file/d/1Gtwuw8rEgn4vgHE1r3Kd3ztujE-Nw1PD/view?usp=sharing)) автоматизированной системы управления с использованием устройств, подключаемых по протоколам Profibus и Profinet.
 Не владея в полной мере информацией, разработчик допустил несколько ошибок.
 
 Ответ привести в виде списка найденных ошибок для корректировки схемы.
