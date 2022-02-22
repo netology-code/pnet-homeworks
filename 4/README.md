@@ -66,7 +66,7 @@
 
 Ответ привести в виде файлов конфигурации, созданных в программах Modbus Poll и Modbus Slave. Файлы конфигурации необходимо сохранить в Google Drive, сделав их доступными для загрузки. В документе, созданном для выполнения ДЗ, привести ссылки на данные файлы. В названиях файлов конфигурации указать фамилию, имя студента и лекцию, к которой относится ДЗ, следующим образом: StudentName_LectureN_xxx.* (например, IvanovPetr_Lecture2_4_001.mbp).
 
-Для большего удобства вы можете воспользоваться инструкцией по работе с программами Modbus Poll, Modbus Slave ([ссылка](https://docs.google.com/presentation/d/10FJtSidtjtJFQqDTVSlwccb-mRfMvL-lXBGHUfZ5pWY/edit#slide=id.g1144c4bf944_0_529))
+Для большего удобства вы можете воспользоваться [инструкцией по работе с программами Modbus Poll, Modbus Slave](https://docs.google.com/presentation/d/10FJtSidtjtJFQqDTVSlwccb-mRfMvL-lXBGHUfZ5pWY/edit#slide=id.g1144c4bf944_0_529)
 
 ------
 
