@@ -18,10 +18,10 @@
 Ссылки на скачивание:
 
 - [Modbus Slave Install 64bit](https://www.modbustools.com/download/ModbusSlaveSetup64Bit.exe "ModbusSlave Install 64bit") [Modbus Slave Install 32bit](https://www.modbustools.com/download/ModbusSlaveSetup32Bit.exe "ModbusSlave Install 32bit")
-- [MasterOPC Universal Modbus Server](https://drive.google.com/file/d/1gKj-W5g06wFmacTKTg7TA-25U2k4xI9t/view?usp=sharing "MasterOPC Universal Modbus Server (Zip)")
-- [Matrikon OPC Explorer](https://drive.google.com/file/d/1G50COfrtY2KkFmSVi16BuPSSWetK0sje/view?usp=sharing "Matrikon OPC Explorer")
-- [Matrikon OPC HDA Explorer](https://drive.google.com/file/d/1JyQjTRuLhzjpsNQ7sxk_vD_42GMxfV6P/view?usp=sharing "Matrikon OPC HDA Explorer")
-- [UaExpert](https://drive.google.com/file/d/1CZj7ETnsDMord99d8uf_zDaggcIUpwsd/view?usp=sharing "UaExpert")
+- [MasterOPC Universal Modbus Server](https://insat.ru/products/Universal_MasterOPC/MODBUS_OPC_SERVER_32TAGS.ZIP "MasterOPC Universal Modbus Server (Zip)")
+- [Matrikon OPC Explorer](https://www.matrikonopc.com/portal/downloads/product_software/MatrikonOPCExplorer.exe "Matrikon OPC Explorer")
+- [Matrikon OPC HDA Explorer](https://www.matrikonopc.com/portal/downloads/product_software/MatrikonOPCHDAExplorer.exe "Matrikon OPC HDA Explorer")
+- [UaExpert](https://www.unified-automation.com/fileadmin/files/client/uaexpert-bin-win32-x86-vs2008sp1-v1.6.1-424.zip "UaExpert")
  
 **ВНИМАНИЕ!** Для программы Modbus Slave устанавливается демо-версия. Ее функционал будет ограничен спустя 30 дней после установки.
 Производите установку программы **только** непосредственно перед началом выполнения задания.
