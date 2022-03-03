@@ -6,7 +6,7 @@
 
 Современные сети имеют сложные топологии и могут включают в себя десятки, иногда - сотни устройств.  Поэтому, при возникновении сбоев, необходимо как можно быстрее найти и устранить возникшую проблему при помощи стандартных средств.
 
-1. Научиться диагностировать состояние сети с использованием стандартных сетевых утилит.
+1. Научиться диагностировать состояние сети с использованием стандартных сетевых утилит (Ping, Traceroute, Wireshark, Tcpdump, Telnet, Netstat).
 
 ------
 
@@ -31,7 +31,8 @@
 1. [Использование сетевых утилит](https://ab57.ru/netcmd.html)
 2. [Сетевые утилиты Windows](http://stilus-doctus.narod.ru/netutil.html)
 3. [Сетевые утилиты командной строки](https://tech-geek.ru/network-command-line-utilities/)
-4. Материалы для Wireshark:
+4. Wireshark:
+- [ПО Wireshark](https://www.wireshark.org/download.html)
 - [Инструкция: Wireshark для анализа трафика](https://losst.ru/kak-polzovatsya-wireshark-dlya-analiza-trafika)
 - [Как пользоваться Wireshark: инструкции по работе, настройка](https://networkguru.ru/wireshark/)
 
