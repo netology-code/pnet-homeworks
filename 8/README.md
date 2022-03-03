@@ -14,14 +14,13 @@
 
 ### Инструкция к заданию
 
-1. Необходимо скачать и установить программу [Cisco Packet Tracer](https://www.netacad.com/ru/courses/packet-tracer).
-2. Сделайте копию [Шаблона для домашнего задания](https://docs.google.com/document/d/1bLlcqyY2reWq42S4hUF66RFRhCFGORFseYVlJSIJSLo/edit?usp=sharing) себе на Google Disk.
-3. В названии файла введите корректное название лекции и вашу фамилию и имя.
-4. Зайдите в “Настройки доступа” и выберите доступ “Просматривать могут все в Интернете, у кого есть ссылка”. Ссылка на инструкцию [Как предоставить доступ к файлам и папкам на Google Диске](https://support.google.com/docs/answer/2494822?hl=ru&co=GENIE.Platform%3DDesktop)
-5. Скопируйте текст задания в свой документ.
-6. Выполните домашнее задание, запишите ответы.
-7. Для проверки домашнего задания преподавателем отправьте ссылку на ваш документ в личном кабинете.
-8. Любые вопросы по решению задач задавайте в чате учебной группы.
+1. Сделайте копию [Шаблона для домашнего задания](https://docs.google.com/document/d/1bLlcqyY2reWq42S4hUF66RFRhCFGORFseYVlJSIJSLo/edit?usp=sharing) себе на Google Disk.
+2. В названии файла введите корректное название лекции и вашу фамилию и имя.
+3. Зайдите в “Настройки доступа” и выберите доступ “Просматривать могут все в Интернете, у кого есть ссылка”. Ссылка на инструкцию [Как предоставить доступ к файлам и папкам на Google Диске](https://support.google.com/docs/answer/2494822?hl=ru&co=GENIE.Platform%3DDesktop)
+4. Скопируйте текст задания в свой документ.
+5. Выполните домашнее задание, запишите ответы.
+6. Для проверки домашнего задания преподавателем отправьте ссылку на ваш документ в личном кабинете.
+7. Любые вопросы по решению задач задавайте в чате учебной группы.
 
 ------
 
@@ -29,10 +28,11 @@
 
 ### Инструменты/ дополнительные материалы, которые пригодятся для выполнения задания
 
-1. [Cisco Packet Tracer](https://www.netacad.com/ru/courses/packet-tracer)
-2. [CISCO: настройка STP \ RSTP протоколов](http://snakeproject.ru/rubric/article.php?art=cisco_stp_rstp)
-3. [Описание и настройка протоколов RSTP, Rapid PVST](https://easy-network.ru/38-urok-21.html)
-4. [Spanning Tree Protocol (STP)](https://ciscolearning.ru/cisco-switch/stp/)
+1. [Использование сетевых утилит](https://ab57.ru/netcmd.html)
+2. [Сетевые утилиты Windows](http://stilus-doctus.narod.ru/netutil.html)
+3. [Сетевые утилиты командной строки](https://tech-geek.ru/network-command-line-utilities/)
+4. [Wireshark](https://losst.ru/kak-polzovatsya-wireshark-dlya-analiza-trafika)
+5. [Сборник материалов](https://networkguru.ru/wireshark/)
 
 ------
 
