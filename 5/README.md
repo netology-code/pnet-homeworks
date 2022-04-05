@@ -22,7 +22,7 @@
 - [MasterOPC Universal Modbus Server](https://insat.ru/products/Universal_MasterOPC/MODBUS_OPC_SERVER_32TAGS.ZIP "MasterOPC Universal Modbus Server (Zip)")
 - [Matrikon OPC Explorer](https://www.matrikonopc.com/portal/downloads/product_software/MatrikonOPCExplorer.exe "Matrikon OPC Explorer")
 - [Matrikon OPC HDA Explorer](https://www.matrikonopc.com/portal/downloads/product_software/MatrikonOPCHDAExplorer.exe "Matrikon OPC HDA Explorer")
-- [UaExpert](https://www.unified-automation.com/fileadmin/files/client/uaexpert-bin-win32-x86-vs2008sp1-v1.6.1-424.zip "UaExpert")
+- [UaExpert](https://www.unified-automation.com/fileadmin/files/client/uaexpert-bin-win32-x86-vs2008sp1-v1.6.2-438.zip)
  
 **ВНИМАНИЕ!** Для программы Modbus Slave устанавливается демо-версия. Ее функционал будет ограничен спустя 30 дней после установки.
 Производите установку программы **только** непосредственно перед началом выполнения задания.
