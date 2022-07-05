@@ -55,7 +55,7 @@
 - [Modbus Poll Install 32bit](https://www.modbustools.com/download/ModbusPollSetup32Bit.exe "ModbusPoll Install 32bit")
 - [Modbus Slave Install 64bit](https://www.modbustools.com/download/ModbusSlaveSetup64Bit.exe "ModbusSlave Install 64bit")
 - [Modbus Slave Install 32bit](https://www.modbustools.com/download/ModbusSlaveSetup32Bit.exe "ModbusSlave Install 32bit")
-3. [Инструкциея по работе с программами Modbus Poll, Modbus Slave](https://docs.google.com/presentation/d/10FJtSidtjtJFQqDTVSlwccb-mRfMvL-lXBGHUfZ5pWY/edit#slide=id.g1144c4bf944_0_529)
+3. [Инструкция по работе с программами Modbus Poll, Modbus Slave](https://docs.google.com/presentation/d/10FJtSidtjtJFQqDTVSlwccb-mRfMvL-lXBGHUfZ5pWY/edit#slide=id.g1144c4bf944_0_529)
 4. [Графический файл Profibus_Profinet.png](https://drive.google.com/file/d/1Gtwuw8rEgn4vgHE1r3Kd3ztujE-Nw1PD/view?usp=sharing)
 5. [Шаблон для домашнего задания](https://docs.google.com/document/d/1O_qG2tp0vKnsrQRLqTzLgUbjcpf-wRs0N4r21e-tUKA/edit?usp=sharing)
 
