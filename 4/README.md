@@ -50,7 +50,7 @@
 ### Инструменты/ дополнительные материалы, которые пригодятся для выполнения задания
 
 1. [Google Drive](https://www.google.com/intl/ru/drive/)
-2. Программы ModbusPoll, ModbusSlave.
+2. Программы ModbusPoll, ModbusSlave:
 - [Modbus Poll Install 64bit](https://www.modbustools.com/download/ModbusPollSetup64Bit.exe "ModbusPoll Install 64bit")
 - [Modbus Poll Install 32bit](https://www.modbustools.com/download/ModbusPollSetup32Bit.exe "ModbusPoll Install 32bit")
 - [Modbus Slave Install 64bit](https://www.modbustools.com/download/ModbusSlaveSetup64Bit.exe "ModbusSlave Install 64bit")
@@ -68,7 +68,7 @@
 - температура - 30005
 - давление - 30006
 - влажность - 30008
-- скорость ветра - 30009
+- скорость ветра - 30009.
 
 Инженеру АСУ ТП в программе Modbus Poll необходимо создать конфигурацию, позволяющую установить связь с виртуальной моделью этого прибора.
 
@@ -77,7 +77,7 @@
 - температура = 20 (градусов)
 - давление = 100 (кПа)
 - влажность = 70 (%)
-- скорость ветра = 1 (м/с)
+- скорость ветра = 1 (м/с).
 
 Ответ приведите в виде файлов конфигурации, созданных в программах Modbus Poll и Modbus Slave. Файлы конфигурации необходимо сохранить в Google Drive, сделав их доступными для загрузки. В шаблоне для домашнего задания приведите ссылки на эти файлы. В названиях файлов конфигурации укажите фамилию, имя студента и лекцию, к которой относится ДЗ, следующим образом: StudentName_LectureN_xxx.* (например, IvanovPetr_Lecture2_4_001.mbp).
 
