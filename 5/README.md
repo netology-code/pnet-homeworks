@@ -57,7 +57,7 @@
 - [Matrikon OPC Explorer](https://www.matrikonopc.com/portal/downloads/product_software/MatrikonOPCExplorer.exe "Matrikon OPC Explorer")
 - [Matrikon OPC HDA Explorer](https://www.matrikonopc.com/portal/downloads/product_software/MatrikonOPCHDAExplorer.exe "Matrikon OPC HDA Explorer")
 - [UaExpert](https://www.unified-automation.com/fileadmin/files/client/uaexpert-bin-win32-x86-vs2008sp1-v1.6.2-438.zip)
-3. [Инструкция по работе с программами ModbusSlave, MasterOPC Universal Modbus Server, Matrikon OPC Explorer, UaExpert]((https://docs.google.com/presentation/d/11QxV0l43DA9arg-Cgt5VHUGv37IJ5phe7rsWiCeGaxE/edit?usp=sharing)
+3. [Инструкция по работе с программами ModbusSlave, MasterOPC Universal Modbus Server, Matrikon OPC Explorer, UaExpert](https://docs.google.com/presentation/d/11QxV0l43DA9arg-Cgt5VHUGv37IJ5phe7rsWiCeGaxE/edit?usp=sharing)
 4. [Шаблон для домашнего задания](https://docs.google.com/document/d/1VGv-wuG66a4pt6AyYub6ZOLp9t5KcV-U-1s5zsVD4-M/edit?usp=sharing)
 
 ------
