@@ -27,9 +27,8 @@
 
 1. [Cisco Packet Tracer](https://www.netacad.com/ru/courses/packet-tracer)
 2. [CISCO: настройка STP \ RSTP протоколов](http://snakeproject.ru/rubric/article.php?art=cisco_stp_rstp)
-3. [Описание и настройка протоколов RSTP, Rapid PVST](https://easy-network.ru/38-urok-21.html)
-4. [Spanning Tree Protocol (STP)](https://ciscolearning.ru/cisco-switch/stp/)
-5. [Шаблон для домашнего задания](https://docs.google.com/document/d/1snKhdgAMQLIUTCJkggDbnkV0ctgcgYK6F2z2r_VGTPo/edit?usp=sharing)
+3. [Spanning Tree Protocol (STP)](https://ciscolearning.ru/cisco-switch/stp/)
+4. [Шаблон для домашнего задания](https://docs.google.com/document/d/1snKhdgAMQLIUTCJkggDbnkV0ctgcgYK6F2z2r_VGTPo/edit?usp=sharing)
 
 ------
 
