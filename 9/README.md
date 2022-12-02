@@ -27,8 +27,9 @@
 1. [Cisco Packet Tracer](https://www.netacad.com/ru/courses/packet-tracer)
 2. [Сетевые утилиты Windows](http://stilus-doctus.narod.ru/netutil.html)
 3. [Сетевые утилиты командной строки](https://tech-geek.ru/network-command-line-utilities/)
-4. [Файл со схемой сети для задания 3](https://github.com/netology-code/pnet-homeworks/blob/main/9/trouble_task3.pkt)
-5. [Шаблон для домашнего задания](https://docs.google.com/document/d/1ZwflCPbe7olTI19U0xqEYVNfTLEeeNxX1tAkWZomyzw/edit?usp=sharing)
+4. [Файл со схемой сети для задания 2](https://github.com/netology-code/pnet-homeworks/blob/main/9/trouble_task2.pkt)
+5. [Файл со схемой сети для задания 3](https://github.com/netology-code/pnet-homeworks/blob/main/9/trouble_task3.pkt)
+6. [Шаблон для домашнего задания](https://docs.google.com/document/d/1ZwflCPbe7olTI19U0xqEYVNfTLEeeNxX1tAkWZomyzw/edit?usp=sharing)
 
 ------
 
