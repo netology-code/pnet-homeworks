@@ -30,7 +30,7 @@
 2. [Монтаж витой пары 2](https://slabo-tochka.by/prokladka-vitoy-pary/)
 3. [Монтаж витой пары 3](https://habr.com/ru/post/83364/)
 4. [Сравнение последовательных интерфейсов](https://ipc2u.ru/articles/prostye-resheniya/otlichiya-interfeysov-rs-232-rs-422-rs-485/ )
-5. [RS-485](https://tech-geek.ru/network-command-line-utilities/)
+5. [RS-485](http://easyelectronics.ru/interfejs-rs-485.html)
 6. [Шаблон для домашнего задания](https://docs.google.com/document/d/1SQ4dJ2Dzz1zAyd972gHjKdshP9XuWEomAxWFKuLNgXo/edit?usp=sharing)
 
 ------
