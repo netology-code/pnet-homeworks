@@ -59,6 +59,19 @@
 4. [Графический файл Profibus_Profinet.png](https://drive.google.com/file/d/1Gtwuw8rEgn4vgHE1r3Kd3ztujE-Nw1PD/view?usp=sharing)
 5. [Шаблон для домашнего задания](https://docs.google.com/document/d/1J1vT0eQ0yoRP6OOA5sn6MwFeoSLkB6yYO6qvdWaKWW0/edit?usp=sharing)
 
+<details>
+  <summary> Что делать, если возникают вопросы или сложности по установке и работе с программным обеспечением? (доступно по клику)</summary>
+  
+  
+1. Напишите в чат группы или обратиться к координатору в системе обращений студентов на сайте по [ссылке](netology.ru/profile?modal=support&type=new-ticket)
+
+2. Можете написать о своей проблеме в разделе «Вопросы и ответы» к домашнему заданию
+  
+  ![image](https://github.com/netology-code/pwin-homeworks/blob/homeworks-pae-7/5.1/Q%26A.png)
+    ---
+  
+</details>
+
 ------
 
 ### Задание 1
