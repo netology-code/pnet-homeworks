@@ -36,7 +36,7 @@
 
 ### Инструкция к выполнению домашнего задания
 
-1. Сделайте копию [Шаблона для домашнего задания](https://docs.google.com/document/d/1VGv-wuG66a4pt6AyYub6ZOLp9t5KcV-U-1s5zsVD4-M/edit?usp=sharing) себе на Google Диск.
+1. Сделайте копию [Шаблона для домашнего задания](https://u.netology.ru/backend/uploads/lms/content_assets/file/5631/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD_%D0%B4%D0%BB%D1%8F_%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B3%D0%BE_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F__%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB_%D0%BE%D0%B1%D0%BC%D0%B5%D0%BD%D0%B0_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC%D0%B8_OPC__-_%D0%A4%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F_%D0%98%D0%BC%D1%8F__%D0%A1%D0%94%D0%95%D0%9B%D0%90%D0%99%D0%A2%D0%95_%D0%9A%D0%9E%D0%9F%D0%98%D0%AE_.docx) себе на Google Диск.
 2. В названии файла введите корректное название лекции и вашу фамилию и имя.
 3. Зайдите в «Настройки доступа» и выберите доступ «Просматривать могут все в Интернете, у кого есть ссылка».
  Ссылка на инструкцию [Как предоставить доступ к файлам и папкам на Google Диске](https://support.google.com/docs/answer/2494822?hl=ru&co=GENIE.Platform%3DDesktop).
@@ -58,7 +58,7 @@
 - [Matrikon OPC HDA Explorer](https://www.matrikonopc.com/portal/downloads/product_software/MatrikonOPCHDAExplorer.exe) (требуется предварительная регистрация),
 - [UaExpert](https://www.unified-automation.com/fileadmin/files/client/uaexpert-bin-win32-x86-vs2008sp1-v1.6.3-448.zip) (требуется предварительная регистрация).
 3. [Инструкция по работе с программами Modbus Slave, MasterOPC Universal Modbus Server, Matrikon OPC Explorer, UaExpert](https://u.netology.ru/backend/uploads/lms/content_assets/file/5630/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B5_%D1%81_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%D0%BC%D0%B8_Modbus_Slave__MasterOPC___Matrikon_OPC__HDA__Explorer__UaExpert.pptx).
-4. [Шаблон для домашнего задания](https://docs.google.com/document/d/1VGv-wuG66a4pt6AyYub6ZOLp9t5KcV-U-1s5zsVD4-M/edit?usp=sharing).
+4. [Шаблон для домашнего задания](https://u.netology.ru/backend/uploads/lms/content_assets/file/5631/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD_%D0%B4%D0%BB%D1%8F_%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B3%D0%BE_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F__%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB_%D0%BE%D0%B1%D0%BC%D0%B5%D0%BD%D0%B0_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC%D0%B8_OPC__-_%D0%A4%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F_%D0%98%D0%BC%D1%8F__%D0%A1%D0%94%D0%95%D0%9B%D0%90%D0%99%D0%A2%D0%95_%D0%9A%D0%9E%D0%9F%D0%98%D0%AE_.docx).
 
 ------
 
