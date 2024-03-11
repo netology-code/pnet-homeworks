@@ -16,7 +16,7 @@
 
 1. Необходимо скачать и установить программу [Wireshark](https://www.wireshark.org/download.html).
 1. Скачайте [файл](protocol.pcapng) и откройте его в Wireshark.
-1. Сделайте копию [Шаблона для домашнего задания](https://docs.google.com/document/d/17nioVZG5xo6QSXy4PwRGB32byLRrVXLbudLErmVa9PU/edit?usp=sharing) себе на Google Диск.
+1. Сделайте копию [Шаблона для домашнего задания](https://u.netology.ru/backend/uploads/lms/content_assets/file/5629/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD_%D0%B4%D0%BB%D1%8F_%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B3%D0%BE_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F__%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2_%D1%81%D0%B5%D1%82%D0%B5%D0%B2%D1%8B%D0%B5_%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8._%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C_OSI__-_%D0%A4%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F_%D0%98%D0%BC%D1%8F__%D0%A1%D0%94%D0%95%D0%9B%D0%90%D0%99%D0%A2%D0%95_%D0%9A%D0%9E%D0%9F%D0%98%D0%AE_.docx) себе на Google Диск.
 1. В названии файла введите корректное название лекции и вашу фамилию и имя.
 1. Зайдите в «Настройки доступа» и выберите доступ «Просматривать могут все в Интернете, у кого есть ссылка». [Как предоставить доступ к файлам и папкам на Google Диске](https://support.google.com/docs/answer/2494822?hl=ru&co=GENIE.Platform%3DDesktop).
 1. Скопируйте текст задания в свой документ.
@@ -30,7 +30,7 @@
 
 1. [Wireshark](https://www.wireshark.org/download.html).
 2. Скачанный [файл](protocol.pcapng).
-3. [Шаблон для домашнего задания](https://docs.google.com/document/d/17nioVZG5xo6QSXy4PwRGB32byLRrVXLbudLErmVa9PU/edit?usp=sharing).
+3. [Шаблон для домашнего задания](https://u.netology.ru/backend/uploads/lms/content_assets/file/5629/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD_%D0%B4%D0%BB%D1%8F_%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B3%D0%BE_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F__%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2_%D1%81%D0%B5%D1%82%D0%B5%D0%B2%D1%8B%D0%B5_%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8._%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C_OSI__-_%D0%A4%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F_%D0%98%D0%BC%D1%8F__%D0%A1%D0%94%D0%95%D0%9B%D0%90%D0%99%D0%A2%D0%95_%D0%9A%D0%9E%D0%9F%D0%98%D0%AE_.docx).
 
 ------
 
