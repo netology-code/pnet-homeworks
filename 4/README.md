@@ -93,7 +93,7 @@
 
 Ответ приведите в виде файлов конфигурации, созданных в программах Modbus Poll и Modbus Slave. Файлы конфигурации необходимо сохранить в Google Drive, сделав их доступными для загрузки. В шаблоне для домашнего задания приведите ссылки на эти файлы. В названиях файлов конфигурации укажите фамилию, имя студента и лекцию, к которой относится ДЗ, следующим образом: StudentName_LectureN_xxx.* (например, IvanovPetr_Lecture2_4_001.mbp).
 
-Для большего удобства вы можете воспользоваться [инструкцией по работе с программами Modbus Poll, Modbus Slave](https://docs.google.com/presentation/d/10FJtSidtjtJFQqDTVSlwccb-mRfMvL-lXBGHUfZ5pWY/edit#slide=id.g1144c4bf944_0_529).
+Для большего удобства вы можете воспользоваться [инструкцией по работе с программами Modbus Poll, Modbus Slave](https://u.netology.ru/backend/uploads/lms/content_assets/file/830/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B5_%D1%81_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%D0%BC%D0%B8_ModbusPoll__ModbusSlave.pptx).
 
 ------
 
