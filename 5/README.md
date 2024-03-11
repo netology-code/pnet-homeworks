@@ -30,7 +30,7 @@
 **ВНИМАНИЕ!** Для программы Modbus Slave устанавливается демоверсия. Её функционал будет ограничен спустя 30 дней после установки.
 Производите установку программы **только** непосредственно перед началом выполнения задания.
 
-Для большего удобства вы можете воспользоваться [инструкцией по работе с указанными программами](https://docs.google.com/presentation/d/11QxV0l43DA9arg-Cgt5VHUGv37IJ5phe7rsWiCeGaxE/edit?usp=sharing).
+Для большего удобства вы можете воспользоваться [инструкцией по работе с указанными программами](https://u.netology.ru/backend/uploads/lms/content_assets/file/5630/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B5_%D1%81_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%D0%BC%D0%B8_Modbus_Slave__MasterOPC___Matrikon_OPC__HDA__Explorer__UaExpert.pptx).
 
 ------
 
@@ -57,7 +57,7 @@
 - [Matrikon OPC Explorer](https://www.matrikonopc.com/portal/downloads/product_software/MatrikonOPCExplorer.exe) (требуется предварительная регистрация),
 - [Matrikon OPC HDA Explorer](https://www.matrikonopc.com/portal/downloads/product_software/MatrikonOPCHDAExplorer.exe) (требуется предварительная регистрация),
 - [UaExpert](https://www.unified-automation.com/fileadmin/files/client/uaexpert-bin-win32-x86-vs2008sp1-v1.6.3-448.zip) (требуется предварительная регистрация).
-3. [Инструкция по работе с программами Modbus Slave, MasterOPC Universal Modbus Server, Matrikon OPC Explorer, UaExpert](https://docs.google.com/presentation/d/11QxV0l43DA9arg-Cgt5VHUGv37IJ5phe7rsWiCeGaxE/edit?usp=sharing).
+3. [Инструкция по работе с программами Modbus Slave, MasterOPC Universal Modbus Server, Matrikon OPC Explorer, UaExpert](https://u.netology.ru/backend/uploads/lms/content_assets/file/5630/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B5_%D1%81_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%D0%BC%D0%B8_Modbus_Slave__MasterOPC___Matrikon_OPC__HDA__Explorer__UaExpert.pptx).
 4. [Шаблон для домашнего задания](https://docs.google.com/document/d/1VGv-wuG66a4pt6AyYub6ZOLp9t5KcV-U-1s5zsVD4-M/edit?usp=sharing).
 
 ------
