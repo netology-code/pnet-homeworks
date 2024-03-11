@@ -30,7 +30,7 @@
 
 2. Скачан графический файл Profibus_Profinet.png, имеется программа для просмотра этого файла с возможностью увеличения отдельных фрагментов изображения.
 
-Ссылка на скачивание: [Profibus_Profinet.png](https://drive.google.com/file/d/1Gtwuw8rEgn4vgHE1r3Kd3ztujE-Nw1PD/view?usp=sharing).
+Ссылка на скачивание: [Profibus_Profinet.png](https://u.netology.ru/backend/uploads/lms/content_assets/file/828/Profibus_Profinet.png).
 
 ------
 
@@ -55,7 +55,7 @@
 - [Modbus Slave Install 64bit](https://www.modbustools.com/download/ModbusSlaveSetup64Bit.exe "ModbusSlave Install 64bit"),
 - [Modbus Slave Install 32bit](https://www.modbustools.com/download/ModbusSlaveSetup32Bit.exe "ModbusSlave Install 32bit").
 3. [Инструкция по работе с программами Modbus Poll, Modbus Slave](https://docs.google.com/presentation/d/10FJtSidtjtJFQqDTVSlwccb-mRfMvL-lXBGHUfZ5pWY/edit#slide=id.g1144c4bf944_0_529).
-4. [Графический файл Profibus_Profinet.png](https://drive.google.com/file/d/1Gtwuw8rEgn4vgHE1r3Kd3ztujE-Nw1PD/view?usp=sharing).
+4. [Графический файл Profibus_Profinet.png](https://u.netology.ru/backend/uploads/lms/content_assets/file/828/Profibus_Profinet.png).
 5. [Шаблон для домашнего задания](https://docs.google.com/document/d/1J1vT0eQ0yoRP6OOA5sn6MwFeoSLkB6yYO6qvdWaKWW0/edit?usp=sharing).
 
 <details>
