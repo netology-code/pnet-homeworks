@@ -99,7 +99,7 @@
 
 ### Задание 2
 
-Инженер АСУ ТП получил от разработчика эскиз схемы ([Profibus_Profinet.png](https://drive.google.com/file/d/1Gtwuw8rEgn4vgHE1r3Kd3ztujE-Nw1PD/view?usp=sharing)) автоматизированной системы управления с использованием устройств, подключаемых по протоколам Profibus и Profinet.
+Инженер АСУ ТП получил от разработчика эскиз схемы ([Profibus_Profinet.png](https://u.netology.ru/backend/uploads/lms/content_assets/file/828/Profibus_Profinet.png)) автоматизированной системы управления с использованием устройств, подключаемых по протоколам Profibus и Profinet.
 Не владея в полной мере информацией, разработчик допустил несколько ошибок.
 
 Ответ приведите в виде списка найденных ошибок для корректировки схемы.
