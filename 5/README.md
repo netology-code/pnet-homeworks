@@ -26,6 +26,14 @@
 - [Matrikon OPC Explorer](https://www.matrikonopc.com/portal/downloads/product_software/MatrikonOPCExplorer.exe) (требуется предварительная регистрация),
 - [Matrikon OPC HDA Explorer](https://www.matrikonopc.com/portal/downloads/product_software/MatrikonOPCHDAExplorer.exe) (требуется предварительная регистрация),
 - [UaExpert](https://www.unified-automation.com/fileadmin/files/client/uaexpert-bin-win32-x86-vs2008sp1-v1.6.3-448.zip) (требуется предварительная регистрация).
+
+<details>
+ <summary> Если у вас возникают сложности с установкой указанных программ, воспользуйтесь ссылками ниже (нажмите на эту строку)</summary>
+[MatrikonOPCExplorer](https://disk.360.yandex.ru/d/yY3Vv3aE2Y3vXA)
+[MatrikonOPCHDAExplorer](https://disk.360.yandex.ru/d/K9mq9_Q-t5p7ew)
+[uaexpert-bin-win32-x86-vs2008sp1-v1.6.1-424](https://disk.360.yandex.ru/d/vv2DjSGKpGJCEw)
+
+ </details>
  
 **ВНИМАНИЕ!** Для программы Modbus Slave устанавливается демоверсия. Её функционал будет ограничен спустя 30 дней после установки.
 Производите установку программы **только** непосредственно перед началом выполнения задания.
