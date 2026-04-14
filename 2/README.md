@@ -39,11 +39,11 @@
 
 Если у вас возникли сложности с установкой ПО с официального сайта, вы можете воспользоваться ссылками для скачивания программы. Выберите тот файл, который подходит для вашей операционной системы.
 
-CPT для windows https://disk.yandex.ru/d/KqvfKAF_zKDIrg
+[CPT для windows](https://disk.360.yandex.ru/d/F1okKRh2536ufw)
 
-CPT для macOS https://disk.yandex.ru/d/hyAkjwAn7SUiag
+[CPT для macOS](https://disk.360.yandex.ru/d/9H1f-XKbB4PtfQ)
 
-CPT для Linux https://disk.yandex.ru/d/iHX2MVbSy4NwLw
+[CPT для Linux](https://disk.360.yandex.ru/d/K-AdfObt-Z22oQ)
   
 Если у вас возникнут дополнительные вопросы - напишите в чат группы или обратиться к координатору в системе обращений студентов на сайте по [ссылке](netology.ru/profile?modal=support&type=new-ticket)
 
