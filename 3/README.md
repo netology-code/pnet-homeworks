@@ -28,6 +28,7 @@
 ### Инструменты и дополнительные материалы, которые пригодятся для выполнения задания:
 
 [Cisco Packet Tracer](https://www.netacad.com/ru/courses/packet-tracer).
+[Альтернативный источник CPT](https://disk.360.yandex.ru/d/uSjssyrCHA-xlA)
 
 ------
 
