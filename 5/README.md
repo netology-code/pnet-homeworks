@@ -31,11 +31,11 @@
  <summary> Если у вас возникают сложности с установкой указанных программ, воспользуйтесь ссылками ниже (нажмите на эту строку) </summary>         
 
  
-[MatrikonOPCExplorer](https://disk.360.yandex.ru/d/yY3Vv3aE2Y3vXA)
+[MatrikonOPCExplorer](https://disk.360.yandex.ru/d/6FifMwQtK-28Sg)
  
-[MatrikonOPCHDAExplorer](https://disk.360.yandex.ru/d/K9mq9_Q-t5p7ew)
+[MatrikonOPCHDAExplorer](https://disk.360.yandex.ru/d/4m4jsBn9sKuA1w)
  
-[uaexpert-bin-win32-x86-vs2008sp1-v1.6.1-424](https://disk.360.yandex.ru/d/vv2DjSGKpGJCEw)
+[uaexpert-bin-win32-x86-vs2008sp1-v1.6.1-424](https://disk.360.yandex.ru/d/IW_Zttb9-sNKug)
  
 
  </details>
